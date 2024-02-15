@@ -4,6 +4,7 @@
 //
 //  Created by Sami Samara on 2/15/24.
 //
+// This app alternates between green and red upon tapping the button in the center
 
 import SwiftUI
 import SwiftData
